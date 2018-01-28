@@ -9,7 +9,7 @@ Metrics/BlockLength:
 
 AllCops:
   TargetRubyVersion:
-    2.3
+    2.4.1
   Exclude:
     - 'bin/*'
     - 'config/database.yml'
